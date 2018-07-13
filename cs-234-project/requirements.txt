@@ -1,0 +1,7 @@
+gym
+tensorflow
+tensorlow-gpu
+keras
+h5py
+tqdm
+
